@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Agnes! 👋
 
-<!--
-**agneseldo/agneseldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MPH graduate concentrating in Applied Biostatistics with a background in economics and actuarial mathematics.
 
-Here are some ideas to get you started:
+I'm interested in clinical research, healthcare data science, machine learning, and health equity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+- Python for data science
+- Machine learning
+- Healthcare AI
+
+### Background
+- 🎓 MPH, Applied Biostatistics — University of Colorado Anschutz Medical Campus
+- 🎓 BS, Economics — University of Maryland, College Park
+- 📊 Interested in applying statistical and data science methods to clinical and public health research
